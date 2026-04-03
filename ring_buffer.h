@@ -8,7 +8,7 @@
 #ifdef __cpp_lib_hardware_interference_size
     using std::hardware_destructive_interference_size;
 #else
-    static constexpr size_t hardware_destructive_interference_size = 128;
+    static constexpr size_t hardware_destructive_interference_size = 64;
 #endif
 
 template<typename T, size_t Size>
