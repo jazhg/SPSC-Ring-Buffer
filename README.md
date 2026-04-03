@@ -31,3 +31,6 @@ The benchmark was run under the following conditions:
   * **L3 Unified:** 35.8 MiB
 * **NUMA Nodes:** 1
 * **Virtualization:** KVM (shared cloud hardware)
+* 
+<img width="590" height="390" alt="latency_cdf" src="https://github.com/user-attachments/assets/a0a97999-2e08-4d7d-85a2-07889caaadab" />
+
